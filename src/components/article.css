@@ -1,0 +1,11 @@
+.article {
+    margin: 10vh 20vh;
+    display: flex;
+    gap: 10rem;
+    justify-content: space-around;
+    color: white;
+}
+
+.article h2 {
+    color: greenyellow;
+}

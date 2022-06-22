@@ -1,0 +1,8 @@
+.search {
+    display: flex;
+    gap : 5px;
+}
+
+.search button {
+    background-color: aqua;
+}
